@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+torch
+torch-geometric
+networkx
+fastapi
+uvicorn
+pydantic
+joblib
+seaborn
+matplotlib
+jupyter
